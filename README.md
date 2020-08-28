@@ -4,7 +4,7 @@
 
 ## By Zack Worrix
 
-# Practicing JavaScript / Node,js
+# Practicing JavaScript / Node.js
 
 ## Setup/Installation
 
